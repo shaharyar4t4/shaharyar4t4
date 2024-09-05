@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shaharyar</h1>
 <h3 align="center">Flutter Developer</h3>
-<img align="left" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-<br>
+<img align="center" alt="Coding" width="500" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaharyar4t4&label=Profile%20views&color=0e75b6&style=flat" alt="shaharyar4t4" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter , Mobile App development**
+- 🌱 I’m currently learning **Flutter App development**
 
 - 💬 Ask me about **Now it's My Turn 😎**
 
