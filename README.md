@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shaharyar</h1>
 <h3 align="center">Flutter Developer</h3>
-<img align="center" alt="Coding" width="500" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
+<img align="center" alt="Coding" width="250" height="250" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaharyar4t4&label=Profile%20views&color=0e75b6&style=flat" alt="shaharyar4t4" /> </p>
