@@ -2,8 +2,6 @@
 <h3 align="center">Flutter Developer</h3>
 <img align="center" alt="Coding" width="250" height="250" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shaharyar4t4&label=Profile%20views&color=0e75b6&style=flat" alt="shaharyar4t4" /> </p>
-
 # 💫 About Me:
 - 🔭 Currently working with Flutter
 - 💬 Feel free to ask me anything about Flutter
