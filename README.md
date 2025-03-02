@@ -1,3 +1,4 @@
+<img align="center" alt="Coding" width="250" height="250" src="https://github.com/shaharyar4t4/shaharyar4t4/blob/main/cover-thompson.png">
 <h1 align="center">Hello 👋, I'm Shaharyar Ali</h1>
 <h3 align="center">Flutter Developer</h3>
 <img align="center" alt="Coding" width="250" height="250" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
