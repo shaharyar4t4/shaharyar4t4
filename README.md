@@ -23,3 +23,6 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
+
+[![Shaharyar GitHub stats](https://github-readme-stats.vercel.app/api?username=shaharyar4t4)](https://github.com/shaharyar4t4/github-readme-stats)
+
