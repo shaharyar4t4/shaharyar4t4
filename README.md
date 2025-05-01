@@ -12,7 +12,7 @@
 - 😄 Check out my work: [Projects](https://devshaharyar.dorik.io/)
 
 ## 🌐 Connect with Me:
-[![Facebook](https://img.shields.io/badge/portfolio-%231877F2.svg?logo=portfolio&logoColor=green)](https://www.facebook.com/muhammad.arslaan.752/) 
+[![Facebook](https://img.shields.io/badge/Portfolio-%231877F2.svg?logo=portfolio&logoColor=green)](https://devshaharyar.netlify.app/) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/muhammad.arslaan.752/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/shaharyar._.ali/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaharyar-ali-99b998245/)  
