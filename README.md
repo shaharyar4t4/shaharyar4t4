@@ -2,7 +2,7 @@
   <img src="https://github.com/shaharyar4t4/shaharyar4t4/blob/main/cover-thompson.png" height="200"/>
 </p>
 <h1 align="center">Hello 👋, I'm Shaharyar Ali</h1>
-<h3 align="center">Flutter Developer || Software Engineer || Mobile App Developer || MVVM & MVC || Expert in Dart, Firebase, RESTful API, Node JS, MongoDB</h3>
+<h3 align="center">A Passionate Flutter Developer from Pakistan</h3>
 <img align="center" alt="Coding" width="250" height="250" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 
 # 💫 About Me:
@@ -23,13 +23,3 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
-# ⚙️ GitHub Analytics
-<p align="center">
-
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=M-Shaharyar&show_icons=true&locale=en&layout=demo&theme=algolia&hide_border=true" />
-
-  <a href="https://github.com/M-Shaharyar">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=M-Shaharyar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=M-Shaharyar&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
