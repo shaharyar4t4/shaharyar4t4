@@ -9,7 +9,7 @@
 - 🔭 Currently working with Flutter
 - 💬 Feel free to ask me anything about Flutter
 - 📫 Reach me at: [shaharyarali209@gmail.com](mailto:shaharyarali209@gmail.com)
-- 😄 Check out my work: [Projects](https://devshaharyar.dorik.io/)
+- 😄 Check out my work: [Projects](https://devshaharyar.netlify.app/)
 
 ## 🌐 Connect with Me:
 [![Facebook](https://img.shields.io/badge/Portfolio-%231877F2.svg?logo=portfolio&logoColor=green)](https://devshaharyar.netlify.app/) 
